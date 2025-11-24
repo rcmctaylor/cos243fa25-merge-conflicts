@@ -1,1 +1,1 @@
-# cos243fa25-merge-conflicts
+# Git Conflict Resolution Exercise

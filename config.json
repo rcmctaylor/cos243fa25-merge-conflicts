@@ -9,7 +9,7 @@
     "autosave"
   ],
   "settings": {
-    "autoComplete": true,
+    "autoComplete": false,
     "lineNumbers": true,
     "wordWrap": false
   }
