@@ -1,0 +1,38 @@
+Weekly Team Schedule
+====================
+
+MONDAY
+------
+09:00 AM - Team Standup
+10:00 AM - Code Review Session
+11:00 AM - Sprint Planning
+02:00 PM - Development Time
+04:00 PM - Documentation
+
+TUESDAY
+-------
+09:00 AM - Team Standup
+10:00 AM - Development Time
+02:00 PM - Pair Programming
+04:00 PM - Testing
+
+WEDNESDAY
+---------
+09:00 AM - Team Standup
+10:00 AM - Architecture Review
+02:00 PM - Development Time
+04:00 PM - Code Review
+
+THURSDAY
+--------
+09:00 AM - Team Standup
+10:00 AM - Development Time
+02:00 PM - Integration Testing
+04:00 PM - Bug Triage
+
+FRIDAY
+------
+09:00 AM - Team Standup
+10:00 AM - Demo Preparation
+02:00 PM - Sprint Demo
+04:00 PM - Retrospective

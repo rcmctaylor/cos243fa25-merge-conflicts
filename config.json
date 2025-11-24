@@ -1,0 +1,16 @@
+{
+  "projectName": "Merge Conflict Exercises",
+  "version": "1.0.0",
+  "theme": "light",
+  "fontSize": 14,
+  "features": [
+    "search",
+    "export",
+    "autosave"
+  ],
+  "settings": {
+    "autoComplete": true,
+    "lineNumbers": true,
+    "wordWrap": false
+  }
+}
