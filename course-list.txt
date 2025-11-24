@@ -10,6 +10,7 @@ COS310 Current Literature Survey (Type 2)
 COS311 Ethics in Computer Science (Req.)
 COS314 Human Computer Interaction (Type 1)
 COS320 Algorithm Design (Req.)
+COS321 Algorithm Design II
 COS331 Data Communications (Type 2)
 COS340 Software Engineering (Type 2)
 COS341 Database Concepts (Req.)
